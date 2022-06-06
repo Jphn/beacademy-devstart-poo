@@ -7,6 +7,11 @@ class Disciplina
 {
     private string $nome;
 
+    public function __construct(string $nome)
+    {
+        $this->setNome($nome);
+    }
+
     public function getNome(): string
     {
         return $this->nome;
