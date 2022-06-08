@@ -6,6 +6,8 @@
 
 ### Arquivos organizados pelas aulas
 
+↔ ⇆ ⇋ ⇌ ⇿
+
 - [📁 Aula 02 ↔ 05](./aula-02/)
 - [📁 Aula 06 ↔ 08](./aula-06/)
 - [📁 Aula 09 ↔ 11](./aula-09/)
