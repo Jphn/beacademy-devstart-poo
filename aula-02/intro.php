@@ -13,18 +13,18 @@ $curso->cargaHoraria = 88;
 $curso->desc = 'Aprender PHP.';
 
 $aluno1 = [
-    'aluno' => 'Alessandro',
-    'cpf' => '123.456.789-10',
+	'aluno' => 'Alessandro',
+	'cpf' => '123.456.789-10',
 ];
 
 $aluno2 = [
-    'Aluno' => 'André',
-    'Cpf' => '123.456.789-10',
+	'Aluno' => 'André',
+	'Cpf' => '123.456.789-10',
 ];
 
 $aluno3 = [
-    'ALUNO' => 'Ana',
-    'CPF' => '123.456.789-10',
+	'ALUNO' => 'Ana',
+	'CPF' => '123.456.789-10',
 ];
 
-var_dump( $aluno );
+var_dump($aluno);

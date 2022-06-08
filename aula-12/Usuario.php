@@ -10,8 +10,7 @@ abstract class Usuario
         string $email,
         string $senha,
         string $cpf,
-        )
-    {
+    ) {
         $this->setNome($nome);
         $this->setEmail($email);
         $this->setSenha($senha);

@@ -1,7 +1,6 @@
 <?php
 
-declare(strict_types = 1)
-;
+declare(strict_types=1);
 
 class Curso
 {
@@ -38,5 +37,4 @@ class Curso
     {
         $this->desc = $desc;
     }
-
 }
