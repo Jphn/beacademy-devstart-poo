@@ -1,0 +1,17 @@
+{
+    "name": "joaop/aula-21",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "João Pedro Holanda Neves",
+            "email": "joaopedroholandaneves@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^1.2"
+    }
+}
