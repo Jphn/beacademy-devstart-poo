@@ -2,7 +2,7 @@
 
 # 📂 PROJETO FINAL
 
-## AULA 25 ↔ 31
+## AULA 25 ⇆ 31
 
 - Arquitetura MVC
 - Controllers

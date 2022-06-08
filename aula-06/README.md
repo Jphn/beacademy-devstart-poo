@@ -1,6 +1,6 @@
 <a href="https://www.beacademy.com.br/devstartpaylivre/" target="_blank"><img src="https://www.beacademy.com.br/wp-content/uploads/2022/02/Cubo.png" align="right" width="60"/></a>
 
-# 📂 AULA 06 ↔ 08
+# 📂 AULA 06 ⇆ 08
 
 ## ÍNDICE
 

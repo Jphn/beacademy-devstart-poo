@@ -6,14 +6,12 @@
 
 ### Arquivos organizados pelas aulas
 
-↔ ⇆ ⇋ ⇌ ⇿
-
-- [📁 Aula 02 ↔ 05](./aula-02/)
-- [📁 Aula 06 ↔ 08](./aula-06/)
-- [📁 Aula 09 ↔ 11](./aula-09/)
-- [📁 Aula 12 ↔ 17](./aula-12/)
-- [📁 Aula 18 ↔ 20](./aula-18/)
-- [📁 Aula 21 ↔ 24](./aula-21/)
+- [📁 Aula 02 ⇆ 05](./aula-02/)
+- [📁 Aula 06 ⇆ 08](./aula-06/)
+- [📁 Aula 09 ⇆ 11](./aula-09/)
+- [📁 Aula 12 ⇆ 17](./aula-12/)
+- [📁 Aula 18 ⇆ 20](./aula-18/)
+- [📁 Aula 21 ⇆ 24](./aula-21/)
 - [📁 Projeto Final](./projeto-final/)
 
 ## AUTOR
