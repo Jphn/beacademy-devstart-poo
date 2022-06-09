@@ -55,11 +55,15 @@ git clone https://github.com/Jphn/beacademy-devstart-poo.git
 
 ### Rodando localmente
 
-> É necessária a instalação do PHP na sua máquina e a adição do binário do mesmo as variáveis do seu ambiente. Estou utilizando a versão `8.1.6` do PHP.
+> É necessária a instalação do PHP na sua máquina e a adição do binário do mesmo as variáveis do seu ambiente. Estou utilizando a versão `8.1.6` do PHP. Também é importante instalar a ferramenta`composer`, para rodar a aplicação.
 
 ```sh
 # Acesse a pasta do repositório
 cd ./beacademy-devstart-poo/projeto-final/
+# Instalação de dependências
+composer install
+# Geração do arquivo de carregamento automático das classes
+composer dump-autoload
 # Inicialização do servidor PHP
 php -S localhost:8000 -t ./public/
 ```
