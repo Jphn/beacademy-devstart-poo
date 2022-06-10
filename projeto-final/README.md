@@ -60,10 +60,8 @@ git clone https://github.com/Jphn/beacademy-devstart-poo.git
 ```sh
 # Acesse a pasta do repositório
 cd ./beacademy-devstart-poo/projeto-final/
-# Instalação de dependências
+# Instalação de dependências, e criação do arquivo de carregamento automático das classes
 composer install
-# Geração do arquivo de carregamento automático das classes
-composer dump-autoload
 # Inicialização do servidor PHP
 php -S localhost:8000 -t ./public/
 ```
